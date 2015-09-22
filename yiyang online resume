@@ -1,121 +1,46 @@
-<!DOCTYPE html><html><head><title>易旸</title><meta charset='utf-8'><link href='https://dn-maxiang.qbox.me/res-min/themes/marxico.css' rel='stylesheet'></head><body><div id='preview-contents' class='note-content'>
-<style>
-@import
-url('https://themes.googleusercontent.com/fonts/css?kit=-ou4pOz2rBQXdlj5C-P57A')
-;
 
-ul ul li:before, ol ul li:before {
-content: "\0027a2 ";
+###易旸
+####移动电话：136-1132-7424	  电子邮件：yiyoungjoy@gmail.com
 
-}
-p, pre, pre.prettyprint, blockquote{
-margin:0 0 0;
-}
-ul ul, ol ul, ul ol, ol ol {
-margin-bottom: 0.0em;
-}
+####工作经历
+* 2012.08 ~ 2015.08     **若道咨询（北京）有限公司**
+	    主要负责后端服务开发
 
-</style>
+####专业能力
+* 熟悉JAVA主流框架Struts2，spring，mybatis，hibernate等
+* 熟练使用MySQL，SQLserver数据库及Tomcat，Apache服务器的使用
+* 熟悉常用js框架，了解html5，css3开发
+* 熟练使用JMeter测试工具进行测试，对测试有敏锐的嗅觉
+* 了解安卓开发，能够完成UI设计
 
-<div id="wmd-preview" class="preview-content"></div>
-<div id="wmd-preview-section-1" class="wmd-preview-section preview-content">
+####项目经验
+* **2013.01 ~ 2015.08		官方网站开发与维护**
+    项目简介：公司官方网站主要服务于前台用户和后台管理员，主要采用springMVC，mybatis，MySQL搭建框架，该框架基于3大平台（WEB,WAP,APP）共用一套业务，独立5个子系统（后台管理系统，WEB系统，WAP系统，job调度系统，后端接口系统）
+    责任描述：核心成员，2012年到2014年，公司只有CTO和我两个技术人员，独立负责从后台，数据库建模，到前端，实现网站整体的业务需求及服务器管理。
+    - 后台管理系统，主要使用ajax作为前后端数据交互，mybatis作为持久层架构，spring管理事务和依赖注入，拦截器做在线权限验证，实现管理员对后台数据的管理
+    - 设计在线视频，推荐咨询师，优惠码栏目，从前台到后台，独立实现全部功能。
+    - API开发，协同新浪星座合作，负责报告接口及后台报告结算管理，调用CC视频API实现在线视频观看，并实现后台权限管理。
+    - 拆分子系统，各子系统间使用RMI远程调用，实现核心代码分离，提高模块化和可维护性。
+    - 设计系统测试用例，通过JUnit单元测试，JMeter实现API半自动化测试。
+    - 快速响应PM需求，实现网站前端页面改版。
 
-</div><div id="wmd-preview-section-2" class="wmd-preview-section preview-content">
+* **2014.06 ~ 2015.03		移动端网站及App**
+	主要负责移动端网站开发及App
+    - 和PM密切合作，负责开发移动端网站适配ipad，iphone，Android主流机型等
+    - 为App设计并实现Rest风格API，后台使用spring，mybatis框架
+	- 主导App的测试，确保产品高质量发布
+    
+* **2012.08 ~ 2013.01		社区论坛**
+	官方网站接入社区论坛
+    - 整合网站用户，实现单点登录
+	- 接入原有网站部分功能到论坛
+	- 论坛后台管理模块化开发
+    
+####教育经历
+2013.10 ~ 至今  **北京大学(自考)**    心理学          
 
-<h3 id="易旸" style="text-align:center;">易旸</h3>
-
-</div>
-<div style="width:100%;float:left;">
-<div id="wmd-preview-section-3" style="width:49%;float:left;" class="wmd-preview-section preview-content">
-
-<p id="移动电话136-1132-7424" style="text-align:right">移动电话：136-1132-7424</p>
-
-</div>
-<div id="wmd-preview-section-3" style="width:49%;float:right;" class="wmd-preview-section preview-content">
-
-<p id="移动电话136-1132-7424" style="text-align:left">电子邮件：yiyoungjoy@gmail.com</p>
-
-</div>
-</div>
-<div id="wmd-preview-section-4" class="wmd-preview-section preview-content">
-
-<h5 id="工作经历">工作经历</h5>
-
-<ul><li>2012.08 ~ 2015.08 <strong style="margin-left:25px;">若道咨询（北京）有限公司</strong> <br>
-主要负责server端服务开发</li>
-</ul>
-
-</div><div id="wmd-preview-section-5" class="wmd-preview-section preview-content">
-
-<h5 id="专业能力" >专业能力</h5>
-
-<ul><li>3年JAVA开发经验，熟悉JAVA主流框架Struts2，spring，mybatis，hibernate等</li>
-<li>熟练MySQL，SQL Server数据库及Tomcat，Apache服务器的使用</li>
-<li>熟悉常用js库，例：jQuery，jQuery-mobile，jQuery-validate，highcharts等，了解html5，css3开发</li>
-<li>了解安卓开发，能够完成简单apk开发</li>
-<li>熟练使用JMeter测试工具进行测试，对测试有敏锐的嗅觉</li>
-</ul>
-
-</div><div id="wmd-preview-section-123" class="wmd-preview-section preview-content">
-
-<h5 id="项目经验">项目经验</h5>
-
-<ul><li><p>2013.01 ~ 2015.08 <strong style="margin-left:25px;">官方网站开发与维护</strong> <br>
-项目简介：公司官方网站主要服务于前台用户和后台管理员，主要采用spring，mybatis，MySQL搭建框架，该框架基于3大平台（WEB,WAP,APP）共用一套业务，独立5个子系统（后台管理系统，WEB系统，WAP系统，job调度系统，server端接口系统） <br>
-责任描述：2 ~ 3人团队，核心成员，独立负责从后台，数据库建模，到前端，实现网站整体的业务需求及服务器管理。</p>
-
-<ul style="list-style-type: none;"><li>后台管理系统，主要使用ajax作为前后端数据交互，mybatis作为持久层架构，spring管理事务和依赖注入，拦截器做在线权限验证，实现管理员对后台数据的管理。</li>
-<li>拆分子系统，各子系统间使用RMI远程分布式调用，实现核心代码分离，提高模块化和可维护性。</li>
-<li>API开发，协同新浪星座合作，负责报告接口及后台报告结算管理，调用CC视频API实现在线视频观看，并实现后台权限管理。</li>
-<li>设计在线视频，推荐咨询师，优惠码栏目，从前台到后台，独立实现全部功能。</li>
-<li>设计系统测试用例，通过JUnit单元测试，JMeter实现API半自动化测试。</li>
-<li>快速响应PM需求，实现网站前端页面改版。</li></ul></li>
-<li><p>2014.12 ~ 2015.03 <strong style="margin-left:25px;">移动端网站</strong> <br>
-项目简介：基于官网主框架，开发移动端网站适配ipad，iphone，Android等主流机型。 <br>
-责任描述：三人团队，核心成员。</p>
-
-<ul style="list-style-type: none;"><li>和PM密切合作，参与设计移动端网站整体流程。</li>
-<li>实现移动端网站(个人中心，购买课程，购买报告)等主要功能，并完成移动端支付宝支付，主要技术：HttpClient，Md5。</li>
-<li>编写部分html5，css3前端页面。</li></ul></li>
-<li><p>2014.09 ~ 2014.12 <strong style="margin-left:25px;">星运日历App</strong> <br>
-项目简介：一款星座运势的App <br>
-责任描述：独立负责IOS App Server端</p>
-
-<ul style="list-style-type: none;"><li>为App设计并实现Rest风格API</li>
-<li>实现用户登陆注册，用户数据上传下载，及后台数据管理</li>
-<li>实现In-App Purchases验证及订单处理</li>
-<li>主导App的测试，确保产品高质量发布</li></ul></li>
-<li><p>2012.08 ~ 2013.01 <strong style="margin-left:25px;">社区论坛</strong> <br>
-项目简介：官方网站接入社区论坛 <br>
-责任描述：二人团队，主要负责</p>
-
-<ul style="list-style-type: none;"><li>整合网站用户，实现单点登录</li>
-<li>接入原有网站部分功能到论坛</li>
-<li>论坛后台管理用户数据整合开发</li></ul></li>
-</ul></div><div id="wmd-preview-section-7" class="wmd-preview-section preview-content">
-
-<h5 id="教育经历">教育经历</h5>
-
-<ul><li>2011.07 ~ 2012.08年在北大青鸟培训学习一年JAVA开发</li>
-</ul>
-
-</div><div id="wmd-preview-section-8" class="wmd-preview-section preview-content">
-
-<h5 id="自我评价">自我评价</h5>
-
-<ul>
-<li>热爱互联网行业，愿意不断学习提高自身技术</li>
-<li>积极主动，能够承担较大的工作压力</li>
-<li>能够独立分析和解决问题，调试BUG</li>
-<li>喜欢研究新技术，有上进心，时间管理能力强</li>
-<li>良好的协调和沟通能力，及强烈的团队精神</li>
-
-</ul>
-
-</div><div id="wmd-preview-section-9" class="wmd-preview-section preview-content">
-
-<h5 id="社会活动">社会活动</h5>
-
-<ul><li>喜欢骑行，2014年环青海湖</li>
-<li>2013年参加北京马拉松长跑</li>
-</ul></div><div id="wmd-preview-section-footnotes" class="preview-content"></div></div></body></html>
+####自我评价
+* 热爱软件事业，能够承担较大的工作压力
+* 善于思考，能够独立分析和解决问题，调试BUG
+* 喜欢研究新技术，有上进心，时间管理能力强
+* 良好的协调和沟通能力，及强烈的团队精神
